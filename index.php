@@ -17,8 +17,6 @@ and open the template in the editor.
     <body>
 		<?php
 		echo "<h1>Welcome to $siteTitle</h1>";
-		
-		echo 'Testing changes';
 		?>
     </body>
 </html>
