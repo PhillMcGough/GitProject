@@ -1,6 +1,6 @@
 <?php
-	$siteTitle = "Img.uk";
-	$siteDesc = "Free image hosting service!";
+	$siteTitle = "Windows 10";
+	$siteDesc = "Pro";
 ?>
 <!DOCTYPE html>
 <!--
