@@ -1,6 +1,6 @@
 <?php
-	$siteTitle = "Windows 10";
-	$siteDesc = "Pro";
+	$siteTitle = "Acer";
+	$siteDesc = "Server";
 ?>
 <!DOCTYPE html>
 <!--
